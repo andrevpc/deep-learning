@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset/
+
+Delete: Cat/666 and 10404
+        Dog/11702
